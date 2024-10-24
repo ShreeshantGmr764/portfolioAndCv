@@ -11,8 +11,10 @@ const Contact = () => {
             <div class="space-y-4">
                 <p><strong>Phone:</strong>(+977)9840001970</p>
                 <p><strong>Email:</strong> <a href="mailto:ghimiresrishant764@gmail.com" class="text-indigo-600 hover:underline">ghimiresrishant764@gmail.com</a></p>
+                
+
             </div>
-            <div> <Link to="https://1drv.ms/w/c/2dfab8f25294702f/Ef_trr4apXBHs-Mi0T6S_t8BsVo2fKcAhigOwHK-5Ybc4g?e=yXm8b5"> Download CV</Link></div>
+            <div> <Link to="https://1drv.ms/w/c/2dfab8f25294702f/Ef_trr4apXBHs-Mi0T6S_t8BsVo2fKcAhigOwHK-5Ybc4g?e=yXm8b5"> Download CV </Link></div>
         </div>
     </section>
     </>
