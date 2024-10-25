@@ -22,7 +22,7 @@ const Projects = () => {
             </div>
             <div>
                 <h4 class="text-xl font-semibold">Coffee Clone</h4>
-                <p class="text-gray-600">his coffee clone website is a learning project that features a responsive design for a seamless user experience across all devices. It showcases a menu of coffee items with detailed descriptions and images, emphasizing my web development skills. An integrated contact form allows visitors to reach out easily for inquiries or feedback.</p>
+                <p class="text-gray-600">This coffee clone website is a learning project that features a responsive design for a seamless user experience across all devices. It showcases a menu of coffee items with detailed descriptions and images, emphasizing my web development skills. An integrated contact form allows visitors to reach out easily for inquiries or feedback.</p>
                 <Link to="https://coffeeclone.vercel.app/" class="text-indigo-600 hover:underline">View Project</Link>
             </div>
             
